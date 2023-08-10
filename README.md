@@ -7,7 +7,7 @@
 
 - 📫 How to reach me [e-mail](mailto:shilohgeorge2019@gmail.com)
 
-- ⚡ Fun fact **'m a coding wizard who thrives on solo adventures in the realm of programming 🧙‍♂️✨**
+- ⚡ Fun fact **I'm a coding wizard who thrives on solo adventures in the realm of programming 🧙‍♂️✨**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
