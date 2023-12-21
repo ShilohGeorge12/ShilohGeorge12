@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm George Shiloh</h1>
-<h3 align="center">A Passionate Full-stack React Developer | Turning Ideas into Reality 🚀</h3>
+<h3 align="center">A Passionate JavaScript Full-stack Developer | Turning Ideas into Reality 🚀</h3>
 
 - 🌱 I’m currently learning **Next.JS**
 
@@ -7,7 +7,7 @@
 
 - 📫 How to reach me [e-mail](mailto:shilohgeorge2019@gmail.com)
 
-- ⚡ Fun fact **I'm a coding wizard who thrives on solo adventures in the realm of programming 🧙‍♂️✨**
+- ⚡ Fun fact **I'm a coding wizard who thrives on captivating adventures in the realm of programming 🧙‍♂️✨**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
