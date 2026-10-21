@@ -1,9 +1,4 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg?v=1">
-  <img src="assets/header-light.svg?v=1" width="100%" alt="The Level mark. Shiloh George, The Disciplined Builder. Show up. Solve. Ship. Repeat.">
-</picture>
-
-# Shiloh George: full-stack developer for SME operations
+# Shiloh George: full-stack developer
 
 I turn the operational headaches of running an SME (bookings, quotes, inventory, follow-ups) into web tools that quietly run themselves. Fully remote since December 2024, shipping production work for distributed teams: async by default, self-directed by design.
 
