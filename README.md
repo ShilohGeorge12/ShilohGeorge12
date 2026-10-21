@@ -53,8 +53,3 @@ BSc Computer Science, 2024 · Lagos, Nigeria · remote-first
 ---
 
 The bubble stays centered. So do I.
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/brand-mark-dark.svg?v=1">
-  <img src="assets/brand-mark-light.svg?v=1" alt="" width="32">
-</picture>
